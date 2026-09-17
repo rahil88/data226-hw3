@@ -1,4 +1,4 @@
-# DATA 226 — Homework 3: Weather ETL on Airflow
+# DATA 226 :- Homework 3: Weather ETL on Airflow
 
 Ports the HW2 Colab pipeline to Airflow. The DAG pulls the last 60 days of daily
 weather for San Jose from the Open-Meteo API and full-refreshes a table in
